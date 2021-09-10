@@ -1,0 +1,12 @@
+How to run the script
+ first install the necessary packages
+
+use: npm install or yarn
+
+seconde use the command line to run the script
+
+use: node rand <id> 
+
+example: node rank zBItRZXmNCdh72KqkIo9PWsWKtR2
+
+the name of json file should be leaderboard.json 
